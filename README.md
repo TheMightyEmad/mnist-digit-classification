@@ -17,8 +17,8 @@ The trained model achieves a competitive accuracy of approximately 99.3% on the 
 
 ## Usage
 To run this notebook:
-
-1. Install the required dependencies listed in the `requirements.txt` file (if you're not running the code on cloud).
-2. Run the cells in the notebook sequentially to train the model and make predictions.
+1. Download the dataset from Kaggle (https://www.kaggle.com/c/digit-recognizer) and place it in the same directory as this notebook.
+2. Install the required dependencies listed in the `requirements.txt` file (if you're not running the code on cloud).
+3. Run the cells in the notebook sequentially to train the model and make predictions.
 
 For more details about the competition, you can visit the [Kaggle Digit Recognizer Competition page](https://www.kaggle.com/c/digit-recognizer).
